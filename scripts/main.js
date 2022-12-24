@@ -1,4 +1,4 @@
-// location: deanstein.github.io/JsonToHtml/index.html
+// location: deanstein.github.io/json-to-html/index.html
 
 var scriptVersion = "1.0.0";
 
